@@ -1,0 +1,11 @@
+Variables
+    Declaracion Asignacion
+        let 
+        const
+condicionales
+    if, if else, if else if
+    switch
+bucles
+    while
+    do while
+    for
